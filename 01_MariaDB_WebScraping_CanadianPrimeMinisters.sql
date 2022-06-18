@@ -1,5 +1,5 @@
 
--------### Assignment 2 - Tan Thien Nguyen ###-------
+-------### Tan Thien Nguyen ###-------
 
 ---- Create DB canada_pm_tan ----
 
